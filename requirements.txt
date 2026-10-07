@@ -1,0 +1,8 @@
+networkx>=3.2
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+matplotlib>=3.8
+seaborn>=0.13
+streamlit>=1.38
+pytest>=8.0
